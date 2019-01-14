@@ -1,0 +1,14 @@
+D:\Development\Projects\TotalSynergy\TotalSynergy.TechTest\TotalSynergy.Services\bin\Debug\TotalSynergy.Services.dll
+D:\Development\Projects\TotalSynergy\TotalSynergy.TechTest\TotalSynergy.Services\bin\Debug\TotalSynergy.Services.pdb
+D:\Development\Projects\TotalSynergy\TotalSynergy.TechTest\TotalSynergy.Services\bin\Debug\TotalSynergy.Common.dll
+D:\Development\Projects\TotalSynergy\TotalSynergy.TechTest\TotalSynergy.Services\bin\Debug\TotalSynergy.Common.pdb
+D:\Development\Projects\TotalSynergy\TotalSynergy.TechTest\TotalSynergy.Services\obj\Debug\TotalSynergy.Services.csprojAssemblyReference.cache
+D:\Development\Projects\TotalSynergy\TotalSynergy.TechTest\TotalSynergy.Services\obj\Debug\TotalSynergy.Services.csproj.CoreCompileInputs.cache
+D:\Development\Projects\TotalSynergy\TotalSynergy.TechTest\TotalSynergy.Services\obj\Debug\TotalSynergy.Services.csproj.CopyComplete
+D:\Development\Projects\TotalSynergy\TotalSynergy.TechTest\TotalSynergy.Services\obj\Debug\TotalSynergy.Services.dll
+D:\Development\Projects\TotalSynergy\TotalSynergy.TechTest\TotalSynergy.Services\obj\Debug\TotalSynergy.Services.pdb
+D:\Development\Projects\TotalSynergy\TotalSynergy.TechTest\TotalSynergy.Services\bin\Debug\TotalSynergy.Data.dll
+D:\Development\Projects\TotalSynergy\TotalSynergy.TechTest\TotalSynergy.Services\bin\Debug\EntityFramework.dll
+D:\Development\Projects\TotalSynergy\TotalSynergy.TechTest\TotalSynergy.Services\bin\Debug\TotalSynergy.Data.pdb
+D:\Development\Projects\TotalSynergy\TotalSynergy.TechTest\TotalSynergy.Services\bin\Debug\TotalSynergy.Data.dll.config
+D:\Development\Projects\TotalSynergy\TotalSynergy.TechTest\TotalSynergy.Services\bin\Debug\EntityFramework.xml

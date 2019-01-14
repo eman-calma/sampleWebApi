@@ -1,0 +1,6 @@
+D:\Development\Projects\TotalSynergy\TotalSynergy.TechTest\TotalSynergy.Common\bin\Debug\TotalSynergy.Common.dll
+D:\Development\Projects\TotalSynergy\TotalSynergy.TechTest\TotalSynergy.Common\bin\Debug\TotalSynergy.Common.pdb
+D:\Development\Projects\TotalSynergy\TotalSynergy.TechTest\TotalSynergy.Common\obj\Debug\TotalSynergy.Common.csproj.CoreCompileInputs.cache
+D:\Development\Projects\TotalSynergy\TotalSynergy.TechTest\TotalSynergy.Common\obj\Debug\TotalSynergy.Common.dll
+D:\Development\Projects\TotalSynergy\TotalSynergy.TechTest\TotalSynergy.Common\obj\Debug\TotalSynergy.Common.pdb
+D:\Development\Projects\TotalSynergy\TotalSynergy.TechTest\TotalSynergy.Common\obj\Debug\TotalSynergy.Common.csprojAssemblyReference.cache
